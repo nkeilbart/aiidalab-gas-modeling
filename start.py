@@ -8,7 +8,7 @@ template = """
   <th style="text-align:center">Gas Modeling</th>
 <tr>
   <td valign="top"><ul>
-    <li><a href="{appbase}/example.ipynb" target="_blank">Example notebook</a></li>
+    <li><a href="{appbase}/new_calculation.ipynb" target="_blank">New Calculation</a></li>
   </ul></td>
 </tr>
 </table>
